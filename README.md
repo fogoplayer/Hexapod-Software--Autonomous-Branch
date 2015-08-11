@@ -1,4 +1,8 @@
-# Kinne-Hexapod-Software
+# Hexapod-Software--Autonomous Branch
+
+This branch is specifically for autonomous coding. Included below is the README for the original project, ari86m/Kinne-Hexapod-Software.
+*******************************************************
+*******************************************************
 Software for hexapod robot designed by Wayne Kinne and built at Michigan LDS Encampment High Adventure 2015
 BOM: Arduino AT Mega 2560, custom shield board, PS2 compatible wireless controller & receiver, 7.2V NiMH hobby battery, 12 Tower Pro MG996R servos & lots of 3D printed parts made by Wayne Kinne. 
 
